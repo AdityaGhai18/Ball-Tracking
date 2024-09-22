@@ -9,17 +9,14 @@ Finally, I built the frontend with HTML/CSS & Javascript and packaged the fronte
 Once I had built the application, I distributed a beta-release to cricket coaches of junior and senior cricket clubs around my state
 
 ### Detailed Description of Implementation
+
 [Stage 1](https://github.com/AdityaGhai18/Ball-Tracking/blob/main/Documentation/Crit_A_Planning.pdf): Includes initial planning, formulating ideas, and coming up with success criteria
-[Stage 2](https://github.com/AdityaGhai18/Ball-Tracking/blob/main/Documentation/Crit_B_Design.pdf): Includes Technical planning: 
-- Design Diagrams
-- GUI Diagrams
-- Context Diagram
-- Nav Diagram
-- Computer Vision process flow
-- App architecture diagrams
-- Ball tracking video file handling diagram
-- Flask Application Structure
+
+[Stage 2](https://github.com/AdityaGhai18/Ball-Tracking/blob/main/Documentation/Crit_B_Design.pdf): Includes Technical planning: GUI Diagrams, Design Diagrams, Computer Vision process flow, Flask App architecture diagram
+
 [Stage 3](https://github.com/AdityaGhai18/Ball-Tracking/blob/main/Documentation/Crit_C_Development.pdf): Major product development and implementation, code snippets explained in detailed manner
+
 [Stage 4](https://drive.google.com/file/d/1v97DqYsGUWnpTixgJwJ7fuQbDq-y9Hma/view?usp=sharing): Google drive link for demonstration and walk through video
+
 [Stage 5](https://github.com/AdityaGhai18/Ball-Tracking/blob/main/Documentation/Crit_E_Evaluation.pdf): Evaluation based on 2-week beta testing period from cricket coaches 
 
